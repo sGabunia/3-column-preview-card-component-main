@@ -57,6 +57,15 @@ p {
   overflow: hidden;
 }
 
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2.5rem;
+  padding: 3rem;
+}
+
 @media (min-width: 670px) {
   .cards {
     flex-direction: row;
@@ -65,15 +74,10 @@ p {
   .cards > * {
     flex-basis: 100%;
   }
-}
 
-.card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 2.5rem;
-  padding: 3rem;
+  .card {
+    gap: 4rem;
+  }
 }
 
 .card--orange {
