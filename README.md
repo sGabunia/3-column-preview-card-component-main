@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sGabunia/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://boring-kalam-ac6dea.netlify.app/)
+- Solution URL: [github](https://github.com/sGabunia/3-column-preview-card-component-main)
+- Live Site URL: [Go Live](https://boring-kalam-ac6dea.netlify.app/)
 
 ## Table of contents
 
